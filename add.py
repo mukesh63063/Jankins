@@ -1,12 +1,12 @@
 class Calculator:
   def __init__(self, a, b):
-    a.self = a
-    b.self = b
+    self.a = a
+    self.b = b
 def add(self):
-  return a.self+b.self
+  return self.a + self.b
 def sub(self):
-  return a.self-b.self
+  return self.a - self.b
 
 c = Calculator(20, 10)
-print(c.add)
-print(c.sub)
+print(c.add())
+print(c.sub())
