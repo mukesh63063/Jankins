@@ -20,8 +20,8 @@ Second basic python code from git
 Configuration ( add git link where code is there and check master or main )
 In execute shell (python3 file_name.py --> save apply)
 
-PYTHON CODE WITH GIT (there are in a repo there multiple code) 
-==============================================================
+PYTHON CODE WITH GIT (there are in a repo there multiple code, we want to run 1 code one by one, follow these steps) 
+================================================================================================
 1). set git link
 2). python3 file_name/python_file.py
 
